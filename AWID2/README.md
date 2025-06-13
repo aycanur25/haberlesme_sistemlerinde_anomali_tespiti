@@ -263,7 +263,7 @@ ExtraTreesClassifier(
 5. Pull Request oluşturun
 
 
-## 📧 İletişim
+## İletişim
 
 Sorularınız için lütfen issue açın.
 
